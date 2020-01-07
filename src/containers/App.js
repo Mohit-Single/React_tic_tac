@@ -12,9 +12,9 @@ class App extends Component{
   {
     return(
       <div>
-          <h3 style={{margin:"70px"}}>Next Player : X</h3>
+          
           <Board></Board>
-          <h1>Footer</h1>
+         
       </div>
       )
     }
